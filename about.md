@@ -18,6 +18,10 @@ permalink: /about/
   In my free time, I independently study computer/software engineering concepts.
 </p>
 
+<p>
+  You can find my full resume <a href="/resume/">here</a>.
+</p>
+
 # About This Site
 
 <p>
